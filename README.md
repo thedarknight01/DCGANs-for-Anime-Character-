@@ -42,8 +42,8 @@ pip install -r requirements.txt
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/dcgan-project.git
-   cd dcgan-project
+   git clone https://github.com/thedarknight01/DCGANs-for-Anime-Character-.git
+   cd DCGANs-for-Anime-Character-
    ```
 
 2. Install the required dependencies:
