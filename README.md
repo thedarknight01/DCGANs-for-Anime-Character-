@@ -76,11 +76,11 @@ This will create 10 images using the trained DCGAN model.
 
 ## Training
 
-This model was trained on [dataset name] which can be found [link to dataset or instructions to obtain it]. Training may take several hours depending on your hardware. For best results, use a GPU.
+This model was trained on *animefacedataset by splcher* which can be found on [Kaggle](https://www.kaggle.com/datasets/splcher/animefacedataset). Training may take several hours depending on your hardware. For best results, use a GPU.
 
 ## Results
 
-![Generated Image Example]()
+![Generated Image Example](/Dcgans.png)
 
 
 ## Contributing
@@ -93,6 +93,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+##### Keep Doing Better :)
+##### Feel free to share any ideas for improvement and also check out the dataset owner on Kaggle
